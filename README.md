@@ -95,6 +95,11 @@ To install them, run:
 
     pip install -r requirements.txt
 
+## Example Screenshot
+
+![Customer Churn Prediction Application](image.png)
+
+
 ## Acknowledgments
 
 - **[Streamlit Documentation](https://docs.streamlit.io/)** - For app development and UI components.
